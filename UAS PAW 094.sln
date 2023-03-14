@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UAS PAW 094", "UAS PAW 094.csproj", "{66DAD5CB-189C-4B4C-9755-D7B5B3EB2AD7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_uas1", "Setup_uas1\Setup_uas1.vdproj", "{E6A7D34C-4F4F-4F7F-9D2E-63B67CC11634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66DAD5CB-189C-4B4C-9755-D7B5B3EB2AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DAD5CB-189C-4B4C-9755-D7B5B3EB2AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DAD5CB-189C-4B4C-9755-D7B5B3EB2AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DAD5CB-189C-4B4C-9755-D7B5B3EB2AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A7D34C-4F4F-4F7F-9D2E-63B67CC11634}.Debug|Any CPU.ActiveCfg = Debug
+		{E6A7D34C-4F4F-4F7F-9D2E-63B67CC11634}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4512C7F-1634-4775-82EB-5B4DFB5F1676}
+	EndGlobalSection
+EndGlobal
