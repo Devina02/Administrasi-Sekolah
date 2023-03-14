@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace UAS_1 //Nama file
 {
-    public class Program
+    public class Program;
     {
         public static void Main(string[] args)// Method untuk menjalankan program
         {
